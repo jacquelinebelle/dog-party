@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.bottom-part {
+  clear: left;
+  background-color: #048eaa;
+  text-align: center;
+  color: white;
+  padding: 20px;
+}
+
+.brown-dog {
+  border: 5px;
+  border-color: #048eaa;
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 5px;
+  height: 180px;
+  width: 180px;
+}
+
+.column-dogs {
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #048eaa;
+  height: 180px;
+  width: 180px;
+}
+
+.columns {
+  text-align: center;
+}
+
+.dog-button {
+  background-color: #048eaa;
+  color: white;
+  font-family: Raleway;
+  font-size: 100%;
+  height: 50px;
+  margin: 0px 0px 43px 0px;
+  width: 292px;
+}
+
+.dog-columns {
+  display: inline-block;
+  float: left;
+  padding: 10px;
+  width: 30%;
+}
+
+.dog-icon {
+  height: 45px;
+  margin: 8px 0px 0px 19px;
+  width: auto;
+}
+
+.facts {
+  margin: 56px 0px 43px 0px;
+}
+
+.heading {
+  background-image: url("dog-party-assets/park.jpg");
+  background-
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+  font-family: Raleway;
+  padding: 40px;
+  text-align: center;
+}
+
+.learn {
+  text-align: center;
+  margin: 38px 0px 0px 50px;
+}
+
+.name-button {
+  border: 1px;
+  background-color: #75e2e6;
+  border-radius: 3px;
+  font-family: Raleway;
+  font-size: 17px;
+  height: 47px;
+  margin: 15px auto 0px auto;
+  padding: 0px;
+  width: 371px;
+}
+
+.social-icon {
+  padding: 5px;
+  display: inline-block;
+}
+
+.social-media {
+  padding: 20px;
+}
+
+.top-part {
+  background-color: #75e2e6;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #048eaa;
+  height: 60px;
+}
+
+article {
+  display: inline-block;
+  min-height: 153px;
+  width: auto;
+}
+
+body {
+  border-style: solid;
+  border-width: 2px;
+  margin: auto;
+  width: 1080px;
+}
+
+footer {
+  margin: 0px;
+  padding: 0px;
+}
+
+h2 {
+  font-family: Raleway;
+  font-weight: 700;
+}
+
+input {
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  display: block;
+  height: 47px;
+  margin: auto;
+  padding: 0px;
+  width: 371px;
+}
+
+label {
+  display:  block;
+  margin: 0px auto 8px;
+  text-align: left;
+  width: 350px;
+}
+
+p {
+  font-family: Raleway;
+  font-weight: 700;
+  margin: 31px 70px 51px 32px;
+  text-align: left;
+  width: 90%;
+}
+
+ul {
+  float: right;
+  list-style: none;
+}
+
+ul 
+li {
+  display: inline;
+  font-family: Raleway;
+  font-weight: bold;
+  padding: 0px 20px 0px 0px;
+
+} 
+
+
